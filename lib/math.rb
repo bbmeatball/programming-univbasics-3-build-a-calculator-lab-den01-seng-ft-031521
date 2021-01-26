@@ -1,6 +1,7 @@
 def addition(num1, num2)
 (5,4)
-return num2+num1
+num2+num1=result
+return result
 
 end
 
