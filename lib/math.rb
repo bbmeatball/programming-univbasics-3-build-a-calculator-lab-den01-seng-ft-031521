@@ -33,7 +33,10 @@ end
 def modulo(num1, num2)
 num1=34
 num2=5
-modulo=
+modulo=4 
+
+num1 % num2 ==modulo
+p modulo
 end
 
 def square_root(num)
