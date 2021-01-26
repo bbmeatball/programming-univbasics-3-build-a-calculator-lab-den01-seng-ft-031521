@@ -7,7 +7,11 @@ p sum
 end
 
 def subtraction(num1, num2)
-
+num2=10 
+num1=5
+difference=5
+num2-num1==difference
+p difference 
 end
 
 def division(num1, num2)
