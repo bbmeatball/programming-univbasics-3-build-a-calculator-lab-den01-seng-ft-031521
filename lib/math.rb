@@ -42,7 +42,5 @@ end
 def square_root(num)
 num=81
 square_rt=9
-math.sqrt(num)==square_rt
-p square_rt
-
+p math.sqrt(num)
 end
