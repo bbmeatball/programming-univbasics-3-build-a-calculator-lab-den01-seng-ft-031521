@@ -15,7 +15,11 @@ p difference
 end
 
 def division(num1, num2)
-
+num2=50
+num1=2 
+result=25
+num2/num1==result
+p result
 end
 
 def multiplication(num1, num2)
