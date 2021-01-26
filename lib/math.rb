@@ -1,6 +1,5 @@
 def addition(num1, num2)
-(5,4)
-puts num2+num1
+puts 5 + 4
 
 end
 
